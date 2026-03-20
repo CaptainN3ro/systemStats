@@ -11,27 +11,7 @@
 
 ## Screenshot
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  ✕ Close  – Minimise  ⛶ Fullscreen   systemStats by CaptainN3ro  14:32:07│
-├──────────────────┬──────────────────┬───────────────────────────────────┤
-│  ⚡ PROCESSOR     │  🧠 MEMORY        │  🖥 SYSTEM & NETWORK               │
-│       73 %       │       41 %       │  192.168.1.42                     │
-│  ████████░░░░░░  │  ████░░░░░░░░░░  │  Local IP address                 │
-│  Cores:     16   │  Total:  32.0 GB │  Hostname:  server-01             │
-│  Frequency: 3.6G │  Used:   13.1 GB │  OS:        Linux                 │
-│  Temp:      54°C │  Available: 18.8G│  Last boot: 10.03.2026 08:00:00   │
-│                  │                  │  Uptime:    10d 06h 32m           │
-├──────────────────┴──────────────────┴───────────────────────────────────┤
-│  🐳 DOCKER CONTAINERS                                                    │
-│  ● nginx          nginx:latest   Up 2 days    0.0.0.0:80->80/tcp        │
-│  ● postgres       postgres:15    Up 2 days    5432/tcp                  │
-├─────────────────────────────────────────────────────────────────────────┤
-│  💾 STORAGE                                                              │
-│  /        ⚡ NVMe   ████████░░░░  120.4 GB / 500.0 GB  (24%)           │
-│  /home    ⚡ SSD    ███████████░  890.2 GB / 1.0 TB    (87%)           │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+![systemStats Screenshot](assets/screenshot.png)
 
 ---
 
